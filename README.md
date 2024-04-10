@@ -1,5 +1,4 @@
 
-Certainly! Here's a shorter version focusing on key SQL operations:
 
 SQL Practice Project: Key Operations
 
